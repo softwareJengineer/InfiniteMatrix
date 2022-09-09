@@ -1,0 +1,1744 @@
+﻿Log file open, 09/08/22 22:24:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InfiniteMatrix
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.601186
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Engine.ini]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Engine.ini]
+[2022.09.09-03.24.21:202][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Engine.ini]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Engine.ini]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.09.09-03.24.21:202][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Engine.ini]
+[2022.09.09-03.24.21:202][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Engine.ini]
+[2022.09.09-03.24.21:215][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.09-03.24.21:215][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.09.09-03.24.21:217][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.09.09-03.24.21:217][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.09-03.24.21:217][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.09.09-03.24.21:217][  0]LogHAL: Display: Platform has ~ 16 GB [16913207296 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.09-03.24.21:217][  0]LogInit: Going up to parent DeviceProfile []
+[2022.09.09-03.24.21:218][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.09-03.24.21:218][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.09.09-03.24.21:219][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Engine.ini]
+[2022.09.09-03.24.21:219][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Config/Windows/Editor.ini]
+[2022.09.09-03.24.21:220][  0]LogInit: Computer: DESKTOP-FCE592K
+[2022.09.09-03.24.21:220][  0]LogInit: User: jschw
+[2022.09.09-03.24.21:220][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.09.09-03.24.21:220][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.09-03.24.21:220][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.09.09-03.24.21:220][  0]LogMemory: Platform Memory Stats for Windows
+[2022.09.09-03.24.21:220][  0]LogMemory: Process Physical Memory: 150.69 MB used, 150.69 MB peak
+[2022.09.09-03.24.21:220][  0]LogMemory: Process Virtual Memory: 132.18 MB used, 132.18 MB peak
+[2022.09.09-03.24.21:220][  0]LogMemory: Physical Memory: 7782.20 MB used,  8347.49 MB free, 16129.69 MB total
+[2022.09.09-03.24.21:220][  0]LogMemory: Virtual Memory: 134210144.00 MB used,  7584.44 MB free, 134217728.00 MB total
+[2022.09.09-03.24.21:225][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.09-03.24.21:429][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.09.09-03.24.21:432][  0]LogInit: Using OS detected language (en-US).
+[2022.09.09-03.24.21:432][  0]LogInit: Using OS detected locale (en-US).
+[2022.09.09-03.24.21:446][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.09.09-03.24.21:643][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.09-03.24.21:657][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.09.09-03.24.21:681][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.09-03.24.21:681][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.09-03.24.21:951][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.09.09-03.24.21:987][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.09-03.24.21:987][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.09.09-03.24.21:987][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.09.09-03.24.21:987][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.09-03.24.22:192][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 Ti' (Feature Level 11_0)
+[2022.09.09-03.24.22:192][  0]LogD3D11RHI:       3964/0/8064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.09.09-03.24.22:228][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.09.09-03.24.22:228][  0]LogD3D11RHI:       128/0/8064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI:       0/0/8064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650 Ti
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI:     DeviceId    : 1f95
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI:     SubSysId    : 97d1028
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI:     DedicatedVideoMemory : 4156555264 bytes
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI:     SharedSystemMemory : 8456603648 bytes
+[2022.09.09-03.24.22:233][  0]LogD3D11RHI:     AdapterLuid : 0 108291
+[2022.09.09-03.24.22:240][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.09-03.24.22:240][  0]LogD3D11RHI:     GPU DeviceId: 0x1f95 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.09-03.24.22:240][  0]LogWindows: EnumDisplayDevices:
+[2022.09.09-03.24.22:240][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.09.09-03.24.22:240][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.09.09-03.24.22:241][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.09.09-03.24.22:241][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 Ti
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.09.09-03.24.22:241][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650 Ti
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:     DeviceId    : 1f95
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:     SubSysId    : 97d1028
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:     DedicatedVideoMemory : 4156555264 bytes
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:     SharedSystemMemory : 8456603648 bytes
+[2022.09.09-03.24.22:241][  0]LogD3D11RHI:     AdapterLuid : 0 108291
+[2022.09.09-03.24.22:307][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.09.09-03.24.22:307][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.09-03.24.22:307][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.09.09-03.24.22:333][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.09.09-03.24.22:390][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.09.09-03.24.22:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.09.09-03.24.22:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.09-03.24.22:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.09-03.24.22:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.09-03.24.22:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.09-03.24.22:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.09-03.24.22:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.09-03.24.22:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.09-03.24.22:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.09-03.24.22:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.09-03.24.22:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.09-03.24.22:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.09-03.24.22:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.09-03.24.22:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.09-03.24.22:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.09.09-03.24.22:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.09-03.24.22:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.09-03.24.22:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.09.09-03.24.22:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.09.09-03.24.22:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.09.09-03.24.22:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.09.09-03.24.22:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.09.09-03.24.22:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.09.09-03.24.22:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.09.09-03.24.22:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.09.09-03.24.22:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.09.09-03.24.22:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.09-03.24.22:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.09-03.24.22:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.09.09-03.24.22:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.09-03.24.22:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.09-03.24.22:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.09-03.24.22:910][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.09.09-03.24.22:954][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.09-03.24.23:044][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.09.09-03.24.23:189][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.09-03.24.23:190][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Intermediate/Shaders/WorkingDirectory/35800/).
+[2022.09.09-03.24.23:190][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jschw/AppData/Local/Temp/UnrealShaderWorkingDir/C4A1B69744F7875FCBC340A44CE3CC77/'.
+[2022.09.09-03.24.23:191][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.09-03.24.23:191][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.09.09-03.24.23:191][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.09.09-03.24.24:032][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.09.09-03.24.24:115][  0]LogDerivedDataCache: Loaded boot cache 0.08s 94MB C:/Users/jschw/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.09.09-03.24.24:115][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jschw/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.09.09-03.24.24:116][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.09-03.24.24:116][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.09.09-03.24.24:116][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.09-03.24.24:116][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.09.09-03.24.24:132][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.09.09-03.24.24:132][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.09-03.24.24:132][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.09.09-03.24.24:145][  0]LogDerivedDataCache: Speed tests for C:/Users/jschw/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.09-03.24.24:145][  0]LogDerivedDataCache: Display: Performance to C:/Users/jschw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.25ms. RandomReadSpeed=153.21MBs, RandomWriteSpeed=275.67MBs. Assigned SpeedClass 'Local'
+[2022.09.09-03.24.24:145][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jschw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.09-03.24.24:145][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.09-03.24.24:145][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.09.09-03.24.24:190][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.09-03.24.24:193][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.09-03.24.24:224][  0]LogAssetRegistry: FAssetRegistry took 0.0042 seconds to start up
+[2022.09.09-03.24.24:499][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.09-03.24.24:499][  0]LogInit: Active device profile: [00000143B11C6C00][00000143B0410E40 49] Windows
+[2022.09.09-03.24.24:499][  0]LogInit: Profiles: [00000143B11C6C00][00000143B0410E40 49] Windows, [00000143B1181E00][00000143B0415100 49] WindowsNoEditor, [00000143B11C4800][00000143B04193C0 49] WindowsServer, [00000143B1181000][00000143B041D680 49] WindowsClient, [00000143B11C5600][00000143B0BCF940 49] IOS, [00000143B1183100][00000143B0BD3C00 49] iPadAir, [00000143B11C5000][00000143B0BD6340 49] iPadAir2, [00000143B111D300][00000143B08CE880 49] IPadPro, [00000143B111D400][00000143B0BDA8C0 49] iPadAir3, [00000143B1183A00][00000143A477CB40 49] iPadAir4, [00000143B111E200][00000143B08C6DC0 49] iPadMini2, [00000143B1181600][00000143B08CB080 49] iPadMini3, [00000143B111EE00][00000143B08D3340 49] iPadMini4, [00000143B1182000][00000143A3D29600 49] iPadMini5, [00000143B1124D00][00000143A3D3DB40 49] iPhone6, [00000143B1124E00][00000143A3D2DB80 49] iPodTouch6, [00000143B11C5B00][00000143A3D44540 49] iPhone7, [00000143B11C5A00][00000143A3D34580 49] iPodTouch7, [00000143B111D800][00000143A3D38840 49] iPhone5S, [00000143B111DB00][00000143A3D30B00 49] iPhone6Plus, [00000143B1127E00][00000143B08C2D80 49] iPhone6S, [00000143B111C700][00000143A3D41000 49] iPhone6SPlus, [00000143B1127300][00000143A3D4D2C0 49] iPhone7Plus, [00000143B111D100][00000143B065D580 49] iPhoneSE, [00000143B1124500][00000143B0661840 49] iPhone8, [00000143B111C400][00000143B0665B00 49] iPhone8Plus, [00000143B1125000][00000143B0668240 49] iPhoneX, [00000143B111DD00][00000143B066C500 49] iPhoneXS, [00000143B1126300][00000143B06707C0 49] iPhoneXSMax, [00000143B111DF00][00000143B0674A80 49] iPhoneXR, [00000143B1126700][00000143B0678D40 49] iPhone11, [00000143B11C6A00][00000143A3D48FC0 49] iPhone11Pro, [00000143B1127900][00000143B067D240 49] iPhone11ProMax, [00000143B11C6500][00000143A41C5500 49] iPhoneSE2, [00000143B1124300][00000143A41C97C0 49] iPhone12Mini, [00000143B11C7700][00000143A41CDA80 49] iPhone12, [00000143B1126E00][00000143A41D01C0 49] iPhone12Pro, [00000143B11C4C00][00000143A41D4480 49] iPhone12ProMax, [00000143B1125300][00000143A41D8740 49] iPadPro105, [00000143B11C5E00][00000143A41DCA00 49] iPadPro129, [00000143B1126A00][00000143A41E0CC0 49] iPadPro97, [00000143B11C7300][00000143A41E4F80 49] iPadPro2_129, [00000143B1127C00][00000143B0681200 49] iPad5, [00000143B11C7B00][00000143A41E9480 49] iPad6, [00000143B1125D00][00000143A41F1740 49] iPad7, [00000143B11C4100][00000143A41F5A00 49] iPad8, [00000143B1127600][00000143B0778140 49] iPadPro11, [00000143B11C6200][00000143B077C400 49] iPadPro2_11, [00000143B1124100][00000143B07806C0 49] iPadPro3_129, [00000143B11C4900][00000143B0784980 49] iPadPro4_129, [00000143B1127200][00000143B0788C40 49] AppleTV, [00000143B11C7600][00000143B078CF00 49] AppleTV4K, [00000143B1126000][00000143B07911C0 49] TVOS, [00000143B11C7500][00000143A41ED440 49] Mac, [00000143B1127F00][00000143B07956C0 49] MacClient, [00000143B11C4B00][00000143B079D980 49] MacNoEditor, [00000143B1124800][00000143B07A00C0 49] MacServer, [00000143B11C7E00][00000143B07A4380 49] Linux, [00000143B1125F00][00000143B07A8640 49] LinuxAArch64, [00000143B11C4F00][00000143B07AC900 49] LinuxNoEditor, [00000143B1124400][00000143B07B0BC0 49] LinuxAArch64NoEditor, [00000143B11C6700][00000143A3D78E80 49] LinuxClient, [00000143B1126D00][00000143A3D7D140 49] LinuxAArch64Client, [00000143B11C5200][00000143A3D81400 49] LinuxServer, [00000143B1125800][00000143B0799680 49] LinuxAArch64Server, [00000143B11C6000][00000143A3D85900 49] Android, [00000143B1124F00][00000143A3D8DBC0 49] Android_Low, [00000143B11C6F00][00000143A3D90300 49] Android_Mid, [00000143B1127D00][00000143A3D945C0 49] Android_High, [00000143B11C7A00][00000143A3D98880 49] Android_Default, [00000143B1125B00][00000143A3D9CB40 49] Android_Adreno4xx, [00000143B11C6600][00000143A3DA0E00 49] Android_Adreno5xx_Low, [00000143B1126800][00000143A3DA50C0 49] Android_Adreno5xx, [00000143B11C5D00][00000143A3DA9380 49] Android_Adreno6xx, [00000143B1124900][00000143A3DAD640 49] Android_Adreno6xx_Vulkan, [00000143B111FB00][00000143A3D898C0 49] Android_Mali_T6xx, [00000143B1181800][00000143A3DB1B40 49] Android_Mali_T7xx, [00000143B111F700][00000143A3DB8280 49] Android_Mali_T8xx, [00000143B1182F00][00000143A3DBC540 49] Android_Mali_G71, [00000143B111DA00][00000143B0A3E800 49] Android_Mali_G72, [00000143B1182600][00000143B0A42AC0 49] Android_Mali_G72_Vulkan, [00000143B111CA00][00000143B0A46D80 49] Android_Mali_G76, [00000143B1183F00][00000143B0A4B040 49] Android_Mali_G76_Vulkan, [00000143B111EC00][00000143B0A4F300 49] Android_Mali_G77, [00000143B1183400][00000143B0A535C0 49] Android_Mali_G77_Vulkan, [00000143B111E400][00000143B0A57880 49] Android_Mali_G78, [00000143B1182D00][00000143A3DB5B00 49] Android_Mali_G78_Vulkan, [00000143B111C600][00000143B0A5A200 49] Android_Mali_G710, [00000143B1181300][00000143B0A624C0 49] Android_Mali_G710_Vulkan, [00000143B111FF00][00000143B0A66780 49] Android_Vulkan_SM5, [00000143B1180800][00000143B0A6AA40 49] Android_PowerVR_G6xxx, [00000143B111D200][00000143B0A6ED00 49] Android_PowerVR_GT7xxx, [00000143B1180300][00000143B0A72FC0 49] Android_PowerVR_GE8xxx, [00000143B111E300][00000143B0A77280 49] Android_PowerVR_GM9xxx, [00000143B1182300][00000143B0A7B540 49] Android_PowerVR_GM9xxx_Vulkan, [00000143B111F500][00000143B0A7F800 49] Android_TegraK1, [00000143B1181C00][00000143B0A83AC0 49] Android_Unknown_Vulkan, [00000143B111E100][00000143B0A5E1C0 49] Lumin, [00000143B1182500][00000143B0A86440 49] Lumin_Desktop, [00000143B111F400][00000143B0A8E700 49] HoloLens, 
+[2022.09.09-03.24.24:697][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.09-03.24.24:697][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.09-03.24.24:697][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.09-03.24.24:697][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.09-03.24.24:697][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.09-03.24.24:730][  0]LogNetVersion: InfiniteMatrix 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1551001080)
+[2022.09.09-03.24.25:266][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.09.09-03.24.25:334][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.09.09-03.24.25:340][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.09.09-03.24.25:340][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.09.09-03.24.25:340][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.09-03.24.25:887][  0]LogPython: Using Python 3.7.7
+[2022.09.09-03.24.26:426][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 088DD8EC4E446D2429D0808627A443D6 | Instance: DE2B92074D96E8D9BFE39BA121490777 (DESKTOP-FCE592K-35800).
+[2022.09.09-03.24.26:708][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.09-03.24.26:717][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.09-03.24.27:004][  0]SourceControl: Source control is disabled
+[2022.09.09-03.24.27:004][  0]SourceControl: Source control is disabled
+[2022.09.09-03.24.27:024][  0]SourceControl: Source control is disabled
+[2022.09.09-03.24.27:032][  0]SourceControl: Source control is disabled
+[2022.09.09-03.24.27:075][  0]SourceControl: Source control is disabled
+[2022.09.09-03.24.27:093][  0]LogUProjectInfo: Found projects:
+[2022.09.09-03.24.27:096][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.09-03.24.27:096][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.09-03.24.27:097][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.09-03.24.27:438][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.09-03.24.27:533][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.09-03.24.27:562][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.09-03.24.27:562][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.09-03.24.27:754][  0]LogCollectionManager: Loaded 0 collections in 0.000644 seconds
+[2022.09.09-03.24.27:794][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Collections/' took 0.00s
+[2022.09.09-03.24.27:794][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/Developers/jschw/Collections/' took 0.00s
+[2022.09.09-03.24.27:794][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/Collections/' took 0.00s
+[2022.09.09-03.24.27:794][  0]LogOcInput: OculusInput pre-init called
+[2022.09.09-03.24.28:063][  0]LogEngine: Initializing Engine...
+[2022.09.09-03.24.28:082][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.09.09-03.24.28:082][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.09-03.24.28:082][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.09.09-03.24.28:085][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.09.09-03.24.28:215][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.09-03.24.28:241][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.09-03.24.28:245][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.09-03.24.28:250][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.09-03.24.28:251][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.09-03.24.28:252][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.09-03.24.28:252][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.09-03.24.28:252][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.09-03.24.28:252][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.09-03.24.28:252][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.09-03.24.28:252][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.09-03.24.28:252][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.09-03.24.28:252][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.09-03.24.28:252][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.09-03.24.28:252][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.09-03.24.28:253][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.09-03.24.28:253][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.09-03.24.28:253][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.09-03.24.28:253][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.09-03.24.28:271][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.09-03.24.28:271][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.09.09-03.24.28:719][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.09.09-03.24.28:733][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.09-03.24.28:737][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.09-03.24.28:738][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.09-03.24.28:739][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.09-03.24.28:740][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.09-03.24.28:740][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.09-03.24.28:741][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.09-03.24.28:741][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.09-03.24.28:741][  0]LogInit: FAudioDevice initialized.
+[2022.09.09-03.24.28:741][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.09-03.24.28:741][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.09-03.24.28:798][  0]LogDerivedDataCache: Saved boot cache 0.06s 94MB C:/Users/jschw/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.09.09-03.24.28:801][  0]LogInit: Texture streaming: Enabled
+[2022.09.09-03.24.28:823][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.09.09-03.24.28:831][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.09-03.24.28:831][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.09.09-03.24.28:836][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.09.09-03.24.29:037][  0]LogInit: Transaction tracking system initialized
+[2022.09.09-03.24.29:087][  0]BlueprintLog: New page: Editor Load
+[2022.09.09-03.24.29:233][  0]LocalizationService: Localization service is disabled
+[2022.09.09-03.24.29:296][  0]TimingProfiler: Initialize
+[2022.09.09-03.24.29:298][  0]TimingProfiler: OnSessionChanged
+[2022.09.09-03.24.29:298][  0]LoadingProfiler: Initialize
+[2022.09.09-03.24.29:299][  0]LoadingProfiler: OnSessionChanged
+[2022.09.09-03.24.29:299][  0]NetworkingProfiler: Initialize
+[2022.09.09-03.24.29:299][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.09-03.24.29:299][  0]MemoryProfiler: Initialize
+[2022.09.09-03.24.29:299][  0]MemoryProfiler: OnSessionChanged
+[2022.09.09-03.24.29:402][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.09-03.24.29:402][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.09-03.24.29:403][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.09-03.24.29:521][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/' took 0.00s
+[2022.09.09-03.24.29:521][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.09.09-03.24.29:521][  0]LogCook: Display: Mobile HDR setting 1
+[2022.09.09-03.24.29:998][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.09-03.24.30:005][  0]SourceControl: Source control is disabled
+[2022.09.09-03.24.30:005][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.844
+[2022.09.09-03.24.30:006][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.09-03.24.30:008][  0]LightingResults: New page: Lighting Build
+[2022.09.09-03.24.30:012][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.24.30:013][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.24.30:014][  0]MapCheck: New page: Map Check
+[2022.09.09-03.24.30:014][  0]LightingResults: New page: Lighting Build
+[2022.09.09-03.24.30:020][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.09-03.24.30:024][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.09.09-03.24.30:126][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialMap'.
+[2022.09.09-03.24.30:127][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.09-03.24.30:134][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.09-03.24.30:143][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.09.09-03.24.30:144][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.09-03.24.30:144][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.306ms to complete.
+[2022.09.09-03.24.30:144][  0]LogFileHelpers: Loading map 'TutorialMap' took 0.138
+[2022.09.09-03.24.30:160][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.999
+[2022.09.09-03.24.30:300][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.24.30:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.24.30:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.24.30:317][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.24.30:347][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3822 classes and 928 folders.
+[2022.09.09-03.24.30:366][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.09.09-03.24.30:370][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.09.09-03.24.30:370][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:370][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.09.09-03.24.30:370][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:370][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.09.09-03.24.30:370][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.09.09-03.24.30:373][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.09.09-03.24.30:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.09.09-03.24.30:373][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:373][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.09.09-03.24.30:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2022.09.09-03.24.30:375][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.09.09-03.24.30:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.09.09-03.24.30:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.09.09-03.24.30:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.09.09-03.24.30:376][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.09.09-03.24.30:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.09.09-03.24.30:376][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:376][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.09.09-03.24.30:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.09.09-03.24.30:378][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.09.09-03.24.30:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.09.09-03.24.30:378][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:378][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.09.09-03.24.30:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.09.09-03.24.30:379][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.09.09-03.24.30:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.09.09-03.24.30:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.09.09-03.24.30:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.09.09-03.24.30:380][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.09.09-03.24.30:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.09.09-03.24.30:381][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:381][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.09.09-03.24.30:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.09.09-03.24.30:382][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.09.09-03.24.30:382][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:382][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.09.09-03.24.30:382][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:382][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.09.09-03.24.30:382][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.09.09-03.24.30:384][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.09.09-03.24.30:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.09.09-03.24.30:384][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:384][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.09.09-03.24.30:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.09.09-03.24.30:386][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.09.09-03.24.30:386][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:386][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.09.09-03.24.30:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.09.09-03.24.30:386][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.09.09-03.24.30:387][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.09.09-03.24.30:387][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:387][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.09.09-03.24.30:387][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:387][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.09.09-03.24.30:387][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.09.09-03.24.30:389][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.09.09-03.24.30:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.09.09-03.24.30:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.09.09-03.24.30:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.09.09-03.24.30:391][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.09.09-03.24.30:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.09.09-03.24.30:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.09.09-03.24.30:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.09.09-03.24.30:392][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.09.09-03.24.30:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.09.09-03.24.30:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.09.09-03.24.30:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.09.09-03.24.30:394][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.09.09-03.24.30:394][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:394][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.09.09-03.24.30:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.09.09-03.24.30:394][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.09.09-03.24.30:395][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.09.09-03.24.30:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.09.09-03.24.30:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.09.09-03.24.30:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.09.09-03.24.30:397][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.09.09-03.24.30:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.09.09-03.24.30:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.09.09-03.24.30:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.09.09-03.24.30:398][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.09.09-03.24.30:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.09.09-03.24.30:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.09.09-03.24.30:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.09.09-03.24.30:400][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.09.09-03.24.30:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.09.09-03.24.30:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.09.09-03.24.30:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.09.09-03.24.30:401][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.09.09-03.24.30:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.09.09-03.24.30:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.09.09-03.24.30:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.09.09-03.24.30:403][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.09.09-03.24.30:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.09.09-03.24.30:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.09.09-03.24.30:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.09.09-03.24.30:404][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.09.09-03.24.30:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.09.09-03.24.30:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.09.09-03.24.30:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.09.09-03.24.30:406][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.09.09-03.24.30:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.09.09-03.24.30:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.09.09-03.24.30:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.09.09-03.24.30:408][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.09.09-03.24.30:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.09.09-03.24.30:408][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:408][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.09.09-03.24.30:408][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.09.09-03.24.30:409][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.09.09-03.24.30:409][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:409][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.09.09-03.24.30:409][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:410][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.09.09-03.24.30:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.09.09-03.24.30:411][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.09.09-03.24.30:411][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.09-03.24.30:411][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.09.09-03.24.30:411][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.09.09-03.24.30:411][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.09.09-03.24.30:411][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.09.09-03.24.30:495][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.09.09-03.24.30:499][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.09.09-03.24.30:590][  0]LogSlate: Took 0.000782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.09-03.24.30:591][  0]LogSlate: Took 0.000631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.09-03.24.30:594][  0]LogSlate: Took 0.001221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.09-03.24.30:702][  0]LogRenderer: Reallocating scene render targets to support 964x496 Format 10 NumSamples 1 (Frame:1).
+[2022.09.09-03.24.31:238][  0]LogSlate: Took 0.000712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.09-03.24.31:296][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.09.09-03.24.31:296][  0]LogLoad: (Engine Initialization) Total time: 12.13 seconds
+[2022.09.09-03.24.31:296][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.09-03.24.31:345][  0]LogAssetRegistry: Asset discovery search completed in 7.1219 seconds
+[2022.09.09-03.24.31:354][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2022.09.09-03.24.31:357][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.09-03.25.00:032][209]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.09-03.25.00:045][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.25.00:318][209]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.09.09-03.25.01:157][209]LogSlate: Took 0.000652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.09-03.25.01:260][210]LogSlate: Took 0.000711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.09-03.27.23:288][559]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.27.23:294][559]LogBlueprint: Warning: [AssetLog] C:\Users\jschw\Desktop\SchoolDocuments\CS 415\InfiniteMatrixStarter 4.27\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] Set Health  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.09.09-03.27.23:342][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.09.09-03.27.23:378][559]LogSlate: Took 0.001589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.09-03.27.49:814][139]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.27.49:854][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.09.09-03.27.50:557][175]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Player26795DA84A4166958473A7AA522AE579.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.27.50:573][175]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.27.50:573][175]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.27.56:765][546]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.27.56:774][546]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.27.56:778][546]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.27.56:778][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.27.58:287][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2022.09.09-03.28.34:246][760]LogSlate: Window 'BP_TunnelSpawner' being destroyed
+[2022.09.09-03.28.34:255][760]LogSlate: Window 'BP_TunnelSpawner' being destroyed
+[2022.09.09-03.28.34:258][760]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.28.34:258][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.28.35:898][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.28.42:733][236]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.09.09-03.28.42:739][236]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.09.09-03.28.42:741][236]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.28.42:741][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.28.44:200][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.30.40:252][246]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.30.40:292][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.09.09-03.30.40:799][272]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Player03453F6C43A505FDADED15A8E5CCF33F.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.30.40:810][272]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.30.40:810][272]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.30.55:966][762]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.30.55:973][762]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.30.55:975][762]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.30.55:975][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.30.57:253][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.31.47:824][649]BlueprintLog: New page: Compile BP_Tunnel
+[2022.09.09-03.31.47:860][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.09.09-03.31.48:432][673]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Tunnel27504BFD429DF4AAAC71C6A01082A541.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.09.09-03.31.48:445][673]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.09.09-03.31.48:445][673]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.32.18:027][371]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.09-03.32.18:033][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.09-03.32.18:036][371]PIE: New page: PIE session: TutorialMap (Sep 8, 2022, 5:32:18 PM)
+[2022.09.09-03.32.18:037][371]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.09.09-03.32.18:039][371]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.09-03.32.18:039][371]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.32.18:041][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001973s)
+[2022.09.09-03.32.18:042][371]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.09-03.32.18:042][371]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2022.09.09-03.32.18:042][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.003003s)
+[2022.09.09-03.32.18:060][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.09.09-03.32.18:061][371]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.09.09-03.32.18:061][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.09-03.32.18:061][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.09-03.32.18:061][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.09-03.32.18:061][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.09-03.32.18:061][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.09-03.32.18:061][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.09-03.32.18:061][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.09-03.32.18:061][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.09-03.32.18:061][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.09-03.32.18:061][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.09-03.32.18:061][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.09-03.32.18:061][371]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.09-03.32.18:063][371]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.09-03.32.18:063][371]LogAudioMixer: Display: 1: FrontRight
+[2022.09.09-03.32.18:126][371]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.09.09-03.32.18:126][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.09-03.32.18:126][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.09-03.32.18:126][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.09-03.32.18:127][371]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.09-03.32.18:127][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.09-03.32.18:127][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.09-03.32.18:128][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.09-03.32.18:128][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.09-03.32.18:128][371]LogInit: FAudioDevice initialized.
+[2022.09.09-03.32.18:128][371]LogAudio: Display: Audio Device (ID: 2) registered with world 'TutorialMap'.
+[2022.09.09-03.32.18:177][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.32.18:177][371]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.09-03.32.18:179][371]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.09.08-22.32.18
+[2022.09.09-03.32.18:179][371]LogWorld: Bringing up level for play took: 0.000450
+[2022.09.09-03.32.18:179][371]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.09.09-03.32.18:189][371]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.09.09-03.32.18:198][371]PIE: Server logged in
+[2022.09.09-03.32.18:199][371]PIE: Play in editor total start time 0.169 seconds.
+[2022.09.09-03.32.29:189][ 10]Set new viewmode: Wireframe
+[2022.09.09-03.32.31:674][159]Set new viewmode: Wireframe
+[2022.09.09-03.32.32:242][193]Set new viewmode: Wireframe
+[2022.09.09-03.32.32:524][210]Set new viewmode: Wireframe
+[2022.09.09-03.32.32:758][224]Set new viewmode: Wireframe
+[2022.09.09-03.32.33:387][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.32.33:387][259]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.32.33:388][259]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.09-03.32.33:395][259]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.32.33:395][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.32.33:407][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.09-03.32.33:411][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.32.33:437][259]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.09-03.32.33:438][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.32.33:439][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.32.33:465][259]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.09.09-03.32.33:486][260]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.09.09-03.35.17:344][673]BlueprintLog: New page: Compile BP_Tunnel
+[2022.09.09-03.35.17:395][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.09.09-03.35.18:005][705]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Tunnel4304830C4EE13432D24E11AF591D1BC9.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.09.09-03.35.18:019][705]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.09.09-03.35.18:019][705]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.35.22:079][947]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Tunnel394CF8A34C82FA8413F002B2A58ED359.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.09.09-03.35.22:092][947]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.09.09-03.35.22:092][947]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.35.29:058][356]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_TunnelDB3381E7481132275AF13BBB0017F79F.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.09.09-03.35.29:070][356]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.09.09-03.35.29:071][356]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.35.32:383][551]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.09-03.35.32:389][551]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.09.09-03.35.32:390][551]LogPlayLevel: [PlayLevel] Compiling BP_Tunnel before play...
+[2022.09.09-03.35.32:443][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.09.09-03.35.32:444][551]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2022.09.09-03.35.32:445][551]PIE: New page: PIE session: TutorialMap (Sep 8, 2022, 5:35:32 PM)
+[2022.09.09-03.35.32:445][551]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.35.32:446][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001320s)
+[2022.09.09-03.35.32:447][551]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.09-03.35.32:447][551]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2022.09.09-03.35.32:447][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002300s)
+[2022.09.09-03.35.32:472][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.09.09-03.35.32:472][551]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.09.09-03.35.32:472][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.09-03.35.32:472][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.09-03.35.32:472][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.09-03.35.32:472][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.09-03.35.32:472][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.09-03.35.32:472][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.09-03.35.32:472][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.09-03.35.32:472][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.09-03.35.32:473][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.09-03.35.32:473][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.09-03.35.32:473][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.09-03.35.32:473][551]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.09-03.35.32:474][551]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.09-03.35.32:474][551]LogAudioMixer: Display: 1: FrontRight
+[2022.09.09-03.35.32:540][551]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.09.09-03.35.32:540][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.09-03.35.32:540][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.09-03.35.32:540][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.09-03.35.32:541][551]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.09-03.35.32:541][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.09-03.35.32:541][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.09-03.35.32:542][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.09-03.35.32:542][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.09-03.35.32:542][551]LogInit: FAudioDevice initialized.
+[2022.09.09-03.35.32:542][551]LogAudio: Display: Audio Device (ID: 3) registered with world 'TutorialMap'.
+[2022.09.09-03.35.32:600][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.35.32:600][551]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.09-03.35.32:601][551]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.09.08-22.35.32
+[2022.09.09-03.35.32:601][551]LogWorld: Bringing up level for play took: 0.000464
+[2022.09.09-03.35.32:601][551]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.09.09-03.35.32:606][551]PIE: Server logged in
+[2022.09.09-03.35.32:607][551]PIE: Play in editor total start time 0.221 seconds.
+[2022.09.09-03.35.38:626][911]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.09-03.35.38:626][911]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.09.09-03.35.43:076][178]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.09-03.35.43:087][178]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.35.43:087][178]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.35.43:087][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.35.43:097][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.09-03.35.43:101][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.35.43:124][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.35.43:125][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.35.43:132][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.09.09-03.35.43:189][181]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.09.09-03.35.44:772][276]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.09.09-03.35.44:779][276]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.09.09-03.35.44:781][276]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.35.44:781][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.35.47:556][439]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.37.06:220][482]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.37.06:227][482]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.37.06:230][482]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.37.06:230][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.37.09:404][663]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/Health.Health
+[2022.09.09-03.37.18:084][136]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Health4CE06D394537677B9B7DEAA766B8842F.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/Health.uasset'
+[2022.09.09-03.37.18:100][136]AssetCheck: New page: Asset Save: Health
+[2022.09.09-03.37.18:101][136]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/Health.Health
+[2022.09.09-03.37.18:725][174]BlueprintLog: New page: Compile Health
+[2022.09.09-03.37.18:823][174]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.09.09-03.37.19:382][199]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/HealthF95A175D4F3597D7A8F08F84D55A12A4.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/Health.uasset'
+[2022.09.09-03.37.19:394][199]AssetCheck: New page: Asset Save: Health
+[2022.09.09-03.37.19:394][199]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/Health.Health
+[2022.09.09-03.37.50:967][522]LogSlate: Window 'Health' being destroyed
+[2022.09.09-03.37.50:974][522]LogSlate: Window 'Health' being destroyed
+[2022.09.09-03.37.50:980][522]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.37.50:980][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.37.50:989][522]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.37.50:989][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.37.53:518][669]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.38.21:883][177]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.38.21:997][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2022.09.09-03.38.22:543][205]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_PlayerEB4D11CD45F0997D2B87EF91AB8D381C.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.38.22:556][205]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.38.22:556][205]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.38.36:347][552]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.09-03.38.54:264][784]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.38.54:268][784]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.38.54:270][784]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.38.54:271][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.39.01:728][170]LogContentBrowser: Attempting asset rename: Health -> HealthBar
+[2022.09.09-03.39.01:765][170]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HealthBar.HealthBar_C' ref from Metadata '/Game/InfiniteMatrix/UI/Health.PackageMetaData'
+[2022.09.09-03.39.01:765][170]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HealthBar.HealthBar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InfiniteMatrix/UI/Health.PackageMetaData'
+[2022.09.09-03.39.01:765][170]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HealthBar.HealthBar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InfiniteMatrix/UI/Health.PackageMetaData'
+[2022.09.09-03.39.01:765][170]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HealthBar.HealthBar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InfiniteMatrix/UI/Health.PackageMetaData'
+[2022.09.09-03.39.01:765][170]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HealthBar.HealthBar:GetHealthPercent.K2Node_FunctionEntry_0' ref from Metadata '/Game/InfiniteMatrix/UI/Health.PackageMetaData'
+[2022.09.09-03.39.01:765][170]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HealthBar.HealthBar:GetHealthPercent.K2Node_FunctionResult_0' ref from Metadata '/Game/InfiniteMatrix/UI/Health.PackageMetaData'
+[2022.09.09-03.39.01:765][170]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HealthBar.SKEL_HealthBar_C' ref from Metadata '/Game/InfiniteMatrix/UI/Health.PackageMetaData'
+[2022.09.09-03.39.01:765][170]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HealthBar.SKEL_HealthBar_C:Tick' ref from Metadata '/Game/InfiniteMatrix/UI/Health.PackageMetaData'
+[2022.09.09-03.39.01:765][170]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HealthBar.SKEL_HealthBar_C:Construct' ref from Metadata '/Game/InfiniteMatrix/UI/Health.PackageMetaData'
+[2022.09.09-03.39.01:765][170]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HealthBar.SKEL_HealthBar_C:PreConstruct' ref from Metadata '/Game/InfiniteMatrix/UI/Health.PackageMetaData'
+[2022.09.09-03.39.01:789][170]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/HealthBar50B584C646256CE6727D899C971873FF.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/HealthBar.uasset'
+[2022.09.09-03.39.01:892][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.09.09-03.39.01:914][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.09.09-03.39.01:928][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.09.09-03.39.01:974][170]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Player3F0583CC46A8B4BD367B1DB0A0635FF7.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.39.02:008][170]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.09-03.39.02:008][170]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.39.02:008][170]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBar.HealthBar
+[2022.09.09-03.39.03:132][236]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBar.HealthBar
+[2022.09.09-03.39.27:684][664]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/HealthBar7565A56B4AD051062067C6A427FEC9C9.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/HealthBar.uasset'
+[2022.09.09-03.39.27:697][664]AssetCheck: New page: Asset Save: HealthBar
+[2022.09.09-03.39.27:697][664]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBar.HealthBar
+[2022.09.09-03.39.28:240][697]BlueprintLog: New page: Compile HealthBar
+[2022.09.09-03.39.28:272][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.09.09-03.39.28:783][725]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/HealthBar933A75214104EB6029182B91E6E664D6.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/HealthBar.uasset'
+[2022.09.09-03.39.28:794][725]AssetCheck: New page: Asset Save: HealthBar
+[2022.09.09-03.39.28:794][725]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBar.HealthBar
+[2022.09.09-03.39.29:818][787]LogSlate: Window 'HealthBar' being destroyed
+[2022.09.09-03.39.29:824][787]LogSlate: Window 'HealthBar' being destroyed
+[2022.09.09-03.39.29:826][787]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.39.29:826][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.39.29:830][787]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.39.29:831][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.40.43:920][231]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.40.56:373][938]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.40.56:412][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.09.09-03.40.59:739][130]LogSlate: Took 0.000862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.09.09-03.41.03:544][352]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.41.03:551][352]LogClass: Warning: Type mismatch in MaxHealth of BP_Player_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2022.09.09-03.41.03:580][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.09.09-03.41.06:892][544]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.41.06:930][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.09.09-03.41.07:538][575]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Player8CAC1E2041F90AC3C6B8CD903D37DB35.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.41.07:551][575]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.41.07:551][575]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.41.18:363][218]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.41.18:400][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.09.09-03.41.18:842][239]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Player7F7FE69545C8FFACAE0EF0A2D9BD64D1.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.41.18:853][239]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.41.18:853][239]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.41.48:996][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.09.09-03.41.48:998][678]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.027
+[2022.09.09-03.41.49:009][678]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2022.09.09-03.41.49:009][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2022.09.09-03.41.49:038][678]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Player_Auto1AC2FB6C64C3BCA86C84174AB1EC2C6DA.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto1.uasset'
+[2022.09.09-03.41.49:039][678]LogFileHelpers: Auto-saving content packages took 0.042
+[2022.09.09-03.41.57:530][905]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.41.57:538][905]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.41.57:540][905]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.41.57:540][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.42.00:019][ 48]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBar.HealthBar
+[2022.09.09-03.42.34:117][939]LogSlate: Window 'HealthBar' being destroyed
+[2022.09.09-03.42.34:126][939]LogSlate: Window 'HealthBar' being destroyed
+[2022.09.09-03.42.34:130][939]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.42.34:130][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.42.34:136][939]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.42.34:136][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.42.36:531][ 75]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBar.HealthBar
+[2022.09.09-03.42.44:185][508]BlueprintLog: New page: Compile HealthBar
+[2022.09.09-03.42.44:219][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.09.09-03.42.44:693][534]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/HealthBarB5B0AB704DE6818B752ED79DFC7E7557.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/HealthBar.uasset'
+[2022.09.09-03.42.44:706][534]AssetCheck: New page: Asset Save: HealthBar
+[2022.09.09-03.42.44:706][534]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBar.HealthBar
+[2022.09.09-03.42.54:834][133]LogSlate: Window 'HealthBar' being destroyed
+[2022.09.09-03.42.54:841][133]LogSlate: Window 'HealthBar' being destroyed
+[2022.09.09-03.42.54:843][133]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.42.54:843][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.42.54:848][133]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.42.54:849][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.42.57:239][273]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.43.09:711][989]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.43.09:718][989]LogClass: Loading IntProperty property (/Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player_C:MaxHealth) that is now a bool - value '5', expecting 0 or 1. Value set to true.
+[2022.09.09-03.43.09:750][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.09.09-03.43.10:387][ 23]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_PlayerAC1C057E4BD8B6A5B642EDA040C4FC6A.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.43.10:399][ 23]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.43.10:399][ 23]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.43.12:111][125]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.09-03.43.12:128][125]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.09-03.43.41:705][806]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.09.09-03.43.43:508][904]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.09.09-03.43.43:512][904]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.09.09-03.43.48:523][199]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.43.48:531][199]LogClass: Warning: Type mismatch in MaxHealth of BP_Player_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2022.09.09-03.43.48:560][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.09.09-03.43.51:389][364]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.43.51:426][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.09.09-03.43.51:868][386]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Player0BD76B59468DE7A278845DA06CB55B89.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.43.51:880][386]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.43.51:880][386]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.44.07:945][341]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.44.07:982][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.09.09-03.44.08:391][361]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_PlayerBAF3B751455EA60AA267DDBA1C91DADB.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.44.08:402][361]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.44.08:402][361]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.44.35:473][982]LogRenderer: Reallocating scene render targets to support 964x612 Format 10 NumSamples 1 (Frame:1).
+[2022.09.09-03.44.51:765][939]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.44.51:803][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.09.09-03.44.52:341][966]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Player3550B21044D92AE56DBDA58C18631F26.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.44.52:353][966]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.44.52:353][966]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.44.57:137][ 50]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.44.57:143][ 50]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.44.57:146][ 50]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.44.57:146][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.45.01:130][235]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBar.HealthBar
+[2022.09.09-03.47.52:806][223]BlueprintLog: New page: Compile HealthBar
+[2022.09.09-03.47.52:840][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.09.09-03.47.53:614][267]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/HealthBarC63DF5B0492FF33D090286946B7DEE49.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/HealthBar.uasset'
+[2022.09.09-03.47.53:625][267]AssetCheck: New page: Asset Save: HealthBar
+[2022.09.09-03.47.53:625][267]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBar.HealthBar
+[2022.09.09-03.48.02:302][406]LogSlate: Window 'HealthBar' being destroyed
+[2022.09.09-03.48.02:304][406]LogSlate: Window 'HealthBar' being destroyed
+[2022.09.09-03.48.02:307][406]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.48.02:307][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.48.02:313][406]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.48.02:313][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.48.04:911][516]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.48.12:652][797]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.09.09-03.48.15:982][989]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.09.09-03.48.15:987][989]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.09.09-03.48.20:326][186]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.09.09-03.48.40:353][363]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.48.40:358][363]LogBlueprint: Error: [AssetLog] C:\Users\jschw\Desktop\SchoolDocuments\CS 415\InfiniteMatrixStarter 4.27\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] In use pin  Health  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.09.09-03.48.40:358][363]LogBlueprint: Error: [AssetLog] C:\Users\jschw\Desktop\SchoolDocuments\CS 415\InfiniteMatrixStarter 4.27\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] In use pin  Max Health  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.09.09-03.48.40:359][363]LogBlueprint: Error: [AssetLog] C:\Users\jschw\Desktop\SchoolDocuments\CS 415\InfiniteMatrixStarter 4.27\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] In use pin  Health  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.09.09-03.48.40:359][363]LogBlueprint: Error: [AssetLog] C:\Users\jschw\Desktop\SchoolDocuments\CS 415\InfiniteMatrixStarter 4.27\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] In use pin  Health  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.09.09-03.48.40:359][363]LogBlueprint: Error: [AssetLog] C:\Users\jschw\Desktop\SchoolDocuments\CS 415\InfiniteMatrixStarter 4.27\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] In use pin  Health  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.09.09-03.48.40:404][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.09.09-03.48.41:112][400]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_PlayerD8C2170343C11EE999D213B2C4B269FF.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.48.41:125][400]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.48.41:125][400]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.48.52:626][ 81]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.48.52:631][ 81]LogBlueprint: Error: [AssetLog] C:\Users\jschw\Desktop\SchoolDocuments\CS 415\InfiniteMatrixStarter 4.27\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] In use pin  Health  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.09.09-03.48.52:631][ 81]LogBlueprint: Error: [AssetLog] C:\Users\jschw\Desktop\SchoolDocuments\CS 415\InfiniteMatrixStarter 4.27\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] In use pin  Health  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.09.09-03.48.52:631][ 81]LogBlueprint: Error: [AssetLog] C:\Users\jschw\Desktop\SchoolDocuments\CS 415\InfiniteMatrixStarter 4.27\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] In use pin  Health  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.09.09-03.48.52:660][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.09.09-03.50.11:769][716]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.50.11:805][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.09.09-03.50.12:459][751]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_PlayerFCAFA6C24B5F6760DB9135B34B6928B0.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.50.12:472][751]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.50.12:472][751]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.50.16:554][993]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.09-03.50.16:560][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.09-03.50.16:560][993]PIE: New page: PIE session: TutorialMap (Sep 8, 2022, 5:50:16 PM)
+[2022.09.09-03.50.16:560][993]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.50.16:562][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001532s)
+[2022.09.09-03.50.16:563][993]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.09-03.50.16:563][993]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2022.09.09-03.50.16:563][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002681s)
+[2022.09.09-03.50.16:584][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.09.09-03.50.16:585][993]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.09.09-03.50.16:585][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.09-03.50.16:585][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.09-03.50.16:585][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.09-03.50.16:585][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.09-03.50.16:585][993]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.09-03.50.16:585][993]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.09-03.50.16:585][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.09-03.50.16:585][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.09-03.50.16:586][993]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.09-03.50.16:586][993]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.09-03.50.16:586][993]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.09-03.50.16:586][993]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.09-03.50.16:588][993]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.09-03.50.16:588][993]LogAudioMixer: Display: 1: FrontRight
+[2022.09.09-03.50.16:654][993]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.09.09-03.50.16:655][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.09-03.50.16:655][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.09-03.50.16:655][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.09-03.50.16:655][993]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.09-03.50.16:655][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.09-03.50.16:655][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.09-03.50.16:656][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.09-03.50.16:656][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.09-03.50.16:656][993]LogInit: FAudioDevice initialized.
+[2022.09.09-03.50.16:656][993]LogAudio: Display: Audio Device (ID: 4) registered with world 'TutorialMap'.
+[2022.09.09-03.50.16:717][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.50.16:717][993]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.09-03.50.16:718][993]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.09.08-22.50.16
+[2022.09.09-03.50.16:718][993]LogWorld: Bringing up level for play took: 0.000413
+[2022.09.09-03.50.16:718][993]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.09.09-03.50.16:724][993]PIE: Server logged in
+[2022.09.09-03.50.16:726][993]PIE: Play in editor total start time 0.169 seconds.
+[2022.09.09-03.50.17:789][ 55]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.09-03.50.17:789][ 55]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.09.09-03.50.18:922][123]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.09-03.50.18:922][123]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.09.09-03.50.20:156][197]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.09-03.50.20:156][197]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.09.09-03.50.21:788][295]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.09-03.50.21:800][295]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.50.21:822][295]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.50.21:822][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.50.21:830][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.09-03.50.21:835][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.50.21:856][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.09-03.50.21:856][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.50.21:857][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.50.21:865][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.09.09-03.50.21:889][296]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.09.09-03.52.23:856][553]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.52.23:892][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.09.09-03.52.24:464][583]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_PlayerBA2210D54CB4E30B66E857A4BC181387.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.52.24:478][583]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.52.24:478][583]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.52.29:005][855]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.52.29:010][855]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.52.29:012][855]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.52.29:012][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.52.31:774][ 17]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.09.09-03.52.31:778][ 17]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.09.09-03.52.34:160][157]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBar.HealthBar
+[2022.09.09-03.53.05:242][964]BlueprintLog: New page: Compile HealthBar
+[2022.09.09-03.53.05:276][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.09.09-03.53.05:720][988]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/HealthBar7D3176BE45F0CD2378010DB1B5BEDC5D.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/HealthBar.uasset'
+[2022.09.09-03.53.05:732][988]AssetCheck: New page: Asset Save: HealthBar
+[2022.09.09-03.53.05:733][988]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBar.HealthBar
+[2022.09.09-03.53.07:326][ 82]LogSlate: Window 'HealthBar' being destroyed
+[2022.09.09-03.53.07:330][ 82]LogSlate: Window 'HealthBar' being destroyed
+[2022.09.09-03.53.07:332][ 82]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.53.07:332][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.53.07:337][ 82]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.53.07:338][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.53.08:577][155]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.09-03.53.08:582][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.09-03.53.08:582][155]PIE: New page: PIE session: TutorialMap (Sep 8, 2022, 5:53:08 PM)
+[2022.09.09-03.53.08:583][155]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.53.08:584][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001147s)
+[2022.09.09-03.53.08:584][155]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.09-03.53.08:585][155]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2022.09.09-03.53.08:585][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002033s)
+[2022.09.09-03.53.08:604][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.09.09-03.53.08:604][155]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.09.09-03.53.08:604][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.09-03.53.08:605][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.09-03.53.08:605][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.09-03.53.08:605][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.09-03.53.08:605][155]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.09-03.53.08:605][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.09-03.53.08:605][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.09-03.53.08:605][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.09-03.53.08:605][155]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.09-03.53.08:605][155]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.09-03.53.08:605][155]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.09-03.53.08:605][155]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.09-03.53.08:606][155]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.09-03.53.08:606][155]LogAudioMixer: Display: 1: FrontRight
+[2022.09.09-03.53.08:666][155]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.09.09-03.53.08:666][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.09-03.53.08:666][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.09-03.53.08:666][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.09-03.53.08:666][155]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.09-03.53.08:666][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.09-03.53.08:666][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.09-03.53.08:667][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.09-03.53.08:667][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.09-03.53.08:667][155]LogInit: FAudioDevice initialized.
+[2022.09.09-03.53.08:667][155]LogAudio: Display: Audio Device (ID: 5) registered with world 'TutorialMap'.
+[2022.09.09-03.53.08:708][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.53.08:708][155]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.09-03.53.08:709][155]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.09.08-22.53.08
+[2022.09.09-03.53.08:709][155]LogWorld: Bringing up level for play took: 0.000381
+[2022.09.09-03.53.08:709][155]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.09.09-03.53.08:714][155]PIE: Server logged in
+[2022.09.09-03.53.08:715][155]PIE: Play in editor total start time 0.134 seconds.
+[2022.09.09-03.53.14:808][520]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.09-03.53.14:808][520]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.09.09-03.53.17:670][691]LogEditorViewport: Clicking Background
+[2022.09.09-03.53.22:104][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.53.22:104][953]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.53.22:104][953]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.09-03.53.22:108][953]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.53.22:108][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.53.22:114][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.09-03.53.22:117][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.53.22:134][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.09-03.53.22:134][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.53.22:135][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.53.22:142][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.09.09-03.53.22:188][956]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.09.09-03.53.23:043][  7]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.09-03.53.23:050][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.09-03.53.23:050][  7]PIE: New page: PIE session: TutorialMap (Sep 8, 2022, 5:53:23 PM)
+[2022.09.09-03.53.23:050][  7]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.53.23:051][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001251s)
+[2022.09.09-03.53.23:052][  7]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.09-03.53.23:052][  7]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2022.09.09-03.53.23:052][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002188s)
+[2022.09.09-03.53.23:067][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.09.09-03.53.23:067][  7]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.09.09-03.53.23:067][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.09-03.53.23:067][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.09-03.53.23:067][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.09-03.53.23:067][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.09-03.53.23:067][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.09-03.53.23:067][  7]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.09-03.53.23:067][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.09-03.53.23:067][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.09-03.53.23:068][  7]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.09-03.53.23:068][  7]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.09-03.53.23:068][  7]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.09-03.53.23:068][  7]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.09-03.53.23:069][  7]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.09-03.53.23:069][  7]LogAudioMixer: Display: 1: FrontRight
+[2022.09.09-03.53.23:128][  7]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.09.09-03.53.23:128][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.09-03.53.23:128][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.09-03.53.23:128][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.09-03.53.23:129][  7]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.09-03.53.23:129][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.09-03.53.23:129][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.09-03.53.23:129][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.09-03.53.23:129][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.09-03.53.23:130][  7]LogInit: FAudioDevice initialized.
+[2022.09.09-03.53.23:130][  7]LogAudio: Display: Audio Device (ID: 6) registered with world 'TutorialMap'.
+[2022.09.09-03.53.23:153][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.53.23:153][  7]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.09-03.53.23:154][  7]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.09.08-22.53.23
+[2022.09.09-03.53.23:154][  7]LogWorld: Bringing up level for play took: 0.000387
+[2022.09.09-03.53.23:154][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.09.09-03.53.23:159][  7]PIE: Server logged in
+[2022.09.09-03.53.23:160][  7]PIE: Play in editor total start time 0.112 seconds.
+[2022.09.09-03.53.29:286][374]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.09-03.53.29:286][374]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.09.09-03.53.31:437][503]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.09-03.53.31:447][503]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.53.31:447][503]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.53.31:447][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.53.31:457][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.09-03.53.31:461][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.53.31:475][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.53.31:476][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.53.31:482][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.09.09-03.53.31:542][506]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.09.09-03.53.33:092][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.54.01:610][ 78]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.09.09-03.54.01:616][ 78]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.09.09-03.54.01:619][ 78]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.54.01:619][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.54.02:973][152]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.54.33:865][517]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.54.33:872][517]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.54.33:874][517]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.54.33:874][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.54.40:037][865]LogContentBrowser: Attempting asset rename: HealthBar -> HUD
+[2022.09.09-03.54.40:055][865]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HUD.HUD_C' ref from Metadata '/Game/InfiniteMatrix/UI/HealthBar.PackageMetaData'
+[2022.09.09-03.54.40:055][865]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HUD.SKEL_HUD_C' ref from Metadata '/Game/InfiniteMatrix/UI/HealthBar.PackageMetaData'
+[2022.09.09-03.54.40:056][865]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HUD.HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InfiniteMatrix/UI/HealthBar.PackageMetaData'
+[2022.09.09-03.54.40:056][865]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HUD.HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InfiniteMatrix/UI/HealthBar.PackageMetaData'
+[2022.09.09-03.54.40:056][865]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HUD.HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InfiniteMatrix/UI/HealthBar.PackageMetaData'
+[2022.09.09-03.54.40:056][865]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HUD.HUD:GetHealthPercent.K2Node_FunctionEntry_0' ref from Metadata '/Game/InfiniteMatrix/UI/HealthBar.PackageMetaData'
+[2022.09.09-03.54.40:056][865]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HUD.HUD:GetHealthPercent.K2Node_FunctionResult_0' ref from Metadata '/Game/InfiniteMatrix/UI/HealthBar.PackageMetaData'
+[2022.09.09-03.54.40:056][865]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HUD.SKEL_HUD_C:Tick' ref from Metadata '/Game/InfiniteMatrix/UI/HealthBar.PackageMetaData'
+[2022.09.09-03.54.40:056][865]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HUD.SKEL_HUD_C:Construct' ref from Metadata '/Game/InfiniteMatrix/UI/HealthBar.PackageMetaData'
+[2022.09.09-03.54.40:056][865]LogMetaData: Removing '/Game/InfiniteMatrix/UI/HUD.SKEL_HUD_C:PreConstruct' ref from Metadata '/Game/InfiniteMatrix/UI/HealthBar.PackageMetaData'
+[2022.09.09-03.54.40:071][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/UI/HUD" FILE="../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/HUD.uasset" SILENT=true
+[2022.09.09-03.54.40:077][865]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/HUD5BEE96704B57F03FC4B8A7A6A2C538AA.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/HUD.uasset'
+[2022.09.09-03.54.40:160][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.09.09-03.54.40:183][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.09.09-03.54.40:197][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.09.09-03.54.40:248][865]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_PlayerCE4049B44063772543E4249E4FECEBB6.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.54.40:280][865]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.09-03.54.40:280][865]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.54.40:280][865]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/HUD.HUD
+[2022.09.09-03.54.42:923][ 22]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.55.17:761][ 41]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.55.17:798][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.09.09-03.55.18:506][ 79]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Player9FEF496C4F2A0B986C3FB6916B5D0782.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.55.18:520][ 79]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.55.18:520][ 79]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.55.41:600][437]BlueprintLog: New page: Compile BP_Player
+[2022.09.09-03.55.41:636][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.09.09-03.55.42:277][471]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_PlayerDB5DBE994FBE97F6D56283B89018159C.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.09.09-03.55.42:289][471]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.09-03.55.42:289][471]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.09-03.56.16:178][502]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.56.16:183][502]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.09-03.56.16:185][502]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.56.16:185][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.56.18:463][634]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.56.45:599][952]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.09.09-03.57.35:503][461]BlueprintLog: New page: Compile BP_Tunnel
+[2022.09.09-03.57.35:542][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.09.09-03.57.35:984][483]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_TunnelBF68EF264B64C0EB68E66A81F71FE82D.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.09.09-03.57.35:996][483]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.09.09-03.57.35:996][483]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.58.00:581][931]BlueprintLog: New page: Compile BP_Tunnel
+[2022.09.09-03.58.00:620][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.09.09-03.58.01:044][952]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Tunnel86A002C243675387F12E0382FAF56002.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.09.09-03.58.01:058][952]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.09.09-03.58.01:058][952]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.58.02:182][ 17]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.09-03.58.02:189][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.09-03.58.02:189][ 17]PIE: New page: PIE session: TutorialMap (Sep 8, 2022, 5:58:02 PM)
+[2022.09.09-03.58.02:189][ 17]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.58.02:190][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001517s)
+[2022.09.09-03.58.02:191][ 17]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.09-03.58.02:192][ 17]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2022.09.09-03.58.02:192][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002786s)
+[2022.09.09-03.58.02:215][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.09.09-03.58.02:215][ 17]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.09.09-03.58.02:215][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.09-03.58.02:215][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.09-03.58.02:215][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.09-03.58.02:215][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.09-03.58.02:215][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.09-03.58.02:215][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.09-03.58.02:215][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.09-03.58.02:215][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.09-03.58.02:216][ 17]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.09-03.58.02:216][ 17]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.09-03.58.02:216][ 17]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.09-03.58.02:216][ 17]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.09-03.58.02:218][ 17]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.09-03.58.02:218][ 17]LogAudioMixer: Display: 1: FrontRight
+[2022.09.09-03.58.02:303][ 17]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.09.09-03.58.02:303][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.09-03.58.02:303][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.09-03.58.02:303][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.09-03.58.02:303][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.09-03.58.02:303][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.09-03.58.02:304][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.09-03.58.02:305][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.09-03.58.02:305][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.09-03.58.02:305][ 17]LogInit: FAudioDevice initialized.
+[2022.09.09-03.58.02:305][ 17]LogAudio: Display: Audio Device (ID: 7) registered with world 'TutorialMap'.
+[2022.09.09-03.58.02:330][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.58.02:330][ 17]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.09-03.58.02:331][ 17]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.09.08-22.58.02
+[2022.09.09-03.58.02:331][ 17]LogWorld: Bringing up level for play took: 0.000562
+[2022.09.09-03.58.02:332][ 17]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.09.09-03.58.02:338][ 17]PIE: Server logged in
+[2022.09.09-03.58.02:340][ 17]PIE: Play in editor total start time 0.154 seconds.
+[2022.09.09-03.58.05:351][196]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.09-03.58.05:362][196]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.58.05:363][196]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.58.05:363][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.58.05:371][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.09-03.58.05:375][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.58.05:396][196]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.09-03.58.05:396][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.58.05:398][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.58.05:405][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.09.09-03.58.05:464][199]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.09.09-03.58.37:244][248]BlueprintLog: New page: Compile BP_Tunnel
+[2022.09.09-03.58.37:279][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.09.09-03.58.37:702][269]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Tunnel466701C24AEEC9ADAED2968A1DB082CA.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.09.09-03.58.37:714][269]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.09.09-03.58.37:714][269]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.59.03:340][783]LogEditorTransaction: Undo Delete current selection
+[2022.09.09-03.59.04:226][818]LogEditorTransaction: Undo Move Node
+[2022.09.09-03.59.04:869][855]LogEditorTransaction: Undo Add Node
+[2022.09.09-03.59.05:686][903]LogEditorTransaction: Undo Create Pin Link
+[2022.09.09-03.59.06:737][965]LogEditorTransaction: Undo Move Nodes
+[2022.09.09-03.59.39:120][890]BlueprintLog: New page: Compile BP_Tunnel
+[2022.09.09-03.59.39:156][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.09.09-03.59.39:618][913]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_TunnelD8E017FB408E50AF4F91A49D45ABCD4C.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.09.09-03.59.39:631][913]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.09.09-03.59.39:631][913]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-03.59.40:238][950]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.09-03.59.40:243][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.09-03.59.40:243][950]PIE: New page: PIE session: TutorialMap (Sep 8, 2022, 5:59:40 PM)
+[2022.09.09-03.59.40:243][950]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.59.40:244][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001145s)
+[2022.09.09-03.59.40:245][950]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.09-03.59.40:245][950]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2022.09.09-03.59.40:245][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002264s)
+[2022.09.09-03.59.40:264][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.09.09-03.59.40:265][950]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.09.09-03.59.40:265][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.09-03.59.40:265][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.09-03.59.40:265][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.09-03.59.40:265][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.09-03.59.40:265][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.09-03.59.40:265][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.09-03.59.40:265][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.09-03.59.40:265][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.09-03.59.40:265][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.09-03.59.40:265][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.09-03.59.40:265][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.09-03.59.40:265][950]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.09-03.59.40:267][950]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.09-03.59.40:267][950]LogAudioMixer: Display: 1: FrontRight
+[2022.09.09-03.59.40:331][950]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.09.09-03.59.40:331][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.09-03.59.40:331][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.09-03.59.40:332][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.09-03.59.40:332][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.09-03.59.40:332][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.09-03.59.40:332][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.09-03.59.40:333][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.09-03.59.40:333][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.09-03.59.40:333][950]LogInit: FAudioDevice initialized.
+[2022.09.09-03.59.40:333][950]LogAudio: Display: Audio Device (ID: 8) registered with world 'TutorialMap'.
+[2022.09.09-03.59.40:385][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.59.40:385][950]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.09-03.59.40:386][950]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.09.08-22.59.40
+[2022.09.09-03.59.40:386][950]LogWorld: Bringing up level for play took: 0.000418
+[2022.09.09-03.59.40:386][950]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.09.09-03.59.40:392][950]PIE: Server logged in
+[2022.09.09-03.59.40:393][950]PIE: Play in editor total start time 0.152 seconds.
+[2022.09.09-03.59.45:972][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.59.45:972][282]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.59.45:973][282]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.09-03.59.45:980][282]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.59.45:980][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.59.45:990][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.09-03.59.45:994][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.59.46:011][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.59.46:012][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.59.46:020][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.09.09-03.59.46:055][284]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.09.09-03.59.47:137][349]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.09-03.59.47:142][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.09-03.59.47:142][349]PIE: New page: PIE session: TutorialMap (Sep 8, 2022, 5:59:47 PM)
+[2022.09.09-03.59.47:142][349]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.59.47:143][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001181s)
+[2022.09.09-03.59.47:144][349]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.09-03.59.47:144][349]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2022.09.09-03.59.47:144][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002082s)
+[2022.09.09-03.59.47:163][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.09.09-03.59.47:163][349]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.09.09-03.59.47:163][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.09-03.59.47:163][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.09-03.59.47:163][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.09-03.59.47:163][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.09-03.59.47:163][349]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.09-03.59.47:163][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.09-03.59.47:163][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.09-03.59.47:163][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.09-03.59.47:164][349]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.09-03.59.47:164][349]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.09-03.59.47:164][349]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.09-03.59.47:164][349]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.09-03.59.47:165][349]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.09-03.59.47:165][349]LogAudioMixer: Display: 1: FrontRight
+[2022.09.09-03.59.47:225][349]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.09.09-03.59.47:225][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.09-03.59.47:225][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.09-03.59.47:225][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.09-03.59.47:226][349]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.09-03.59.47:226][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.09-03.59.47:226][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.09-03.59.47:226][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.09-03.59.47:227][349]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.09-03.59.47:227][349]LogInit: FAudioDevice initialized.
+[2022.09.09-03.59.47:227][349]LogAudio: Display: Audio Device (ID: 9) registered with world 'TutorialMap'.
+[2022.09.09-03.59.47:271][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.59.47:271][349]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.09-03.59.47:272][349]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.09.08-22.59.47
+[2022.09.09-03.59.47:272][349]LogWorld: Bringing up level for play took: 0.000495
+[2022.09.09-03.59.47:272][349]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.09.09-03.59.47:278][349]PIE: Server logged in
+[2022.09.09-03.59.47:280][349]PIE: Play in editor total start time 0.14 seconds.
+[2022.09.09-03.59.51:752][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.09-03.59.51:752][614]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.09-03.59.51:753][614]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.09-03.59.51:760][614]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.09-03.59.51:760][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.59.51:766][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.09-03.59.51:770][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.09-03.59.51:787][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.59.51:788][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.09-03.59.51:801][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.09.09-03.59.51:822][615]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.09.09-04.00.04:140][354]LogEditorTransaction: Undo Create Pin Link
+[2022.09.09-04.00.04:780][375]LogEditorTransaction: Undo Create Pin Link
+[2022.09.09-04.00.05:261][403]LogEditorTransaction: Undo Create Pin Link
+[2022.09.09-04.00.05:693][428]LogEditorTransaction: Undo Create Pin Link
+[2022.09.09-04.00.05:939][442]LogEditorTransaction: Undo Move Nodes
+[2022.09.09-04.00.06:375][467]LogEditorTransaction: Undo Create Pin Link
+[2022.09.09-04.00.06:757][489]LogEditorTransaction: Undo Create Pin Link
+[2022.09.09-04.00.07:169][513]LogEditorTransaction: Undo Move Nodes
+[2022.09.09-04.00.07:993][561]LogEditorTransaction: Undo Paste clipboard contents
+[2022.09.09-04.00.08:529][591]LogEditorTransaction: Undo Delete current selection
+[2022.09.09-04.00.09:039][621]LogEditorTransaction: Undo Delete current selection
+[2022.09.09-04.00.10:000][674]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_Tunnel07D43F6B44DDB528E41A57BC155C0E5E.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.09.09-04.00.10:013][674]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.09.09-04.00.10:013][674]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-04.00.13:514][878]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_TunnelC70916FC4731DE85F939E5A1E6A8F518.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.09.09-04.00.13:525][878]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.09.09-04.00.13:525][878]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-04.00.35:215][152]LogSavePackage: Moving '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Saved/BP_TunnelB883CEE9423ABCEA4AE651817809EB97.tmp' to '../../../../../../Users/jschw/Desktop/SchoolDocuments/CS 415/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.09.09-04.00.35:228][152]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.09.09-04.00.35:228][152]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.09-04.00.36:626][236]BlueprintLog: New page: Compile BP_Tunnel
+[2022.09.09-04.00.36:635][236]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.09.09-04.00.36:734][236]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.098 s
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: === Handled ensure: ===
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: 
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 1225]
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: 
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: Stack: 
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffa7700f979 UE4Editor-Engine.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffa758d6dd6 UE4Editor-Engine.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffa902861da UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffa9022c02f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffa9022bd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffa8e3a00de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffa9032ee7c UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffa9034ca46 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffab958cf28 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffab95b2082 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffab958ca87 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffab962a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffab964280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffab949421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffab950e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffab94f7097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffab94e9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffabb6ec025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffabb6d92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffabb6ee465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffabb6d4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffb2dbbe858 USER32.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffb2dbbe299 USER32.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffabb6efcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ff688ef7621 UE4Editor.exe!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ff688f10fcc UE4Editor.exe!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ff688f110ba UE4Editor.exe!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ff688f140dd UE4Editor.exe!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ff688f25984 UE4Editor.exe!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ff688f2853a UE4Editor.exe!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffb2c997034 KERNEL32.DLL!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: [Callstack] 0x00007ffb2dde2651 ntdll.dll!UnknownFunction []
+[2022.09.09-04.00.36:734][236]LogOutputDevice: Error: 
